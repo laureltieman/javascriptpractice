@@ -1,0 +1,54 @@
+body {
+	height: 2500px;
+}
+
+#update {
+	position: fixed;
+	font-size: 2em;
+	font-family: Helvetica;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+img {
+	width: 720px;
+	position: fixed;
+	left: 150px;
+	top: 100px;
+}
+
+#one {
+	width: 240px;
+	left: 150px;
+	top: 100px;
+}
+
+#two {
+	width: 240px;
+	left: 390px;
+	top: 100px;
+}
+
+#three {
+	width: 240px;
+	left: 630px;
+	top: 100px;
+}
+
+#four {
+	width: 240px;
+	left: 150px;
+	top: 370px;
+}
+
+#five {
+	width: 240px;
+	left: 390px;
+	top: 370px;
+}
+
+#six {
+	width: 240px;
+	left: 630px;
+	top: 370px;
+}
